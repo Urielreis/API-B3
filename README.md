@@ -105,4 +105,4 @@ Este projeto foi desenvolvido com foco em práticas modernas de desenvolvimento 
 
 ---
 
-<p align="center">Desenvolvido com ❤️ por [Seu Nome]</p>
+<p align="center">Desenvolvido por Uriel Reis </p>
